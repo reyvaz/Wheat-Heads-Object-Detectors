@@ -7,7 +7,7 @@
 
 <br>
 
-This repo contains three notebooks that use the [MMDetection]() toolbox to train different models that detect wheat heads from images of wheat plants. The data used comes from the [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection) competition provided by [The Global Institute for Food Security (GIFS)]( https://www.gifs.ca/) at the University of Saskatchewan (USask). 
+This repo contains three notebooks that use the [MMDetection](https://github.com/open-mmlab/mmdetection) toolbox to train different models that detect wheat heads from images of wheat plants. The data used comes from the [Global Wheat Detection](https://www.kaggle.com/c/global-wheat-detection) competition provided by [The Global Institute for Food Security (GIFS)]( https://www.gifs.ca/) at the University of Saskatchewan (USask). 
 
 Each notebook has been set up to train the 3 types of detectors, but each trains only one of them. All detectors require a GPU for training.
 
@@ -22,3 +22,9 @@ To train the detectors I have created a set of annotation files in both Pascal V
 **Reproducing the Notebook**
 
 For reproducing the notebooks it is required that the `global-wheat-detection.zip` file containing the data be available in the `\content` directory. Due to data restrictions I am not able to share this file, however, it can be obtained [here]( https://www.kaggle.com/c/global-wheat-detection/data).
+
+<br>
+
+<p align="center">
+<img src="media/gt_vs_pred.png" alt="drawing" width = "750">
+</p>
