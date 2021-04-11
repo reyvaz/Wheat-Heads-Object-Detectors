@@ -1,9 +1,9 @@
 
 # Global Wheat Detection - Object Detection Using MMDetection Toolbox
 
- [![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-Faster%20RCNN%2050-yellow?style=for-the-badge)](https://githubtocolab.com/reyvaz/Wheat-Heads-Object-Detectors/blob/master/global_wheat_detection_faster_rcnn.ipynb) 
- [![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-DetectoRS-yellow?style=for-the-badge)](https://githubtocolab.com/reyvaz/Wheat-Heads-Object-Detectors/blob/master/global_wheat_detection_detectoRS.ipynb) 
- [![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-Generalized%20Focal%20Loss-yellow?style=for-the-badge)](https://githubtocolab.com/reyvaz/Wheat-Heads-Object-Detectors/blob/master/global_wheat_detection_gfl.ipynb)
+ [![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-Faster%20RCNN%2050-yellow?style=for-the-badge&logo=Google-Colab)](https://githubtocolab.com/reyvaz/Wheat-Heads-Object-Detectors/blob/master/global_wheat_detection_faster_rcnn.ipynb) 
+ [![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-DetectoRS-yellow?style=for-the-badge&logo=Google-Colab)](https://githubtocolab.com/reyvaz/Wheat-Heads-Object-Detectors/blob/master/global_wheat_detection_detectoRS.ipynb) 
+ [![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-Generalized%20Focal%20Loss-yellow?style=for-the-badge&logo=Google-Colab)](https://githubtocolab.com/reyvaz/Wheat-Heads-Object-Detectors/blob/master/global_wheat_detection_gfl.ipynb)
 
 <br>
 
